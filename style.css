@@ -18,7 +18,7 @@ body {
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #851aa0;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #de7ef7;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #a00bf7;
+    border-left: 4px solid #cd7ffa;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #FDEEDC;
@@ -67,7 +67,7 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #ee73d3;
+    border: 1px solid #c773ee;
     border-radius: 8px;
     padding: 12px;
     background-color: #FFFFFF;
@@ -99,19 +99,19 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #f36ad5;
+    border: 1px solid #e56ef5;
     padding: 10px;
     text-align: left;
 }
 
 .tabela-cardapio thead {
-    background-color: #8e14be;
+    background-color: #cb6ff0;
     color: #FFFFFF;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #eb13eb;
+    background-color: #f07ff0;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
